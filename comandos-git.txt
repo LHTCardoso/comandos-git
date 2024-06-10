@@ -1,0 +1,28 @@
+comands git
+
+Git Init - no terminal da ide, após colocar esse comand line, ira gera uma pasta .git no caminho da pasta aberta.
+
+Git status - trara o status do seu arquivo de acordo com a sua branch.
+
+git clone - clonar o repositorio weeb.
+
+git add - adicionar arquivos para o proximo commit.
+
+git add *html - ira adicionar todos arquivos da extensão apos o *.
+
+git commit - seria para confirmar/salvar seus adds
+
+git push - jogar seus arquivos locais para remoto
+
+git log - log/historico dos comandos
+
+git pull - ao fazer uma mudança no github e der git pull no terminal, a mudança aparece também no seu repositório local
+
+---
+
+Para upar arquivos para o github
+git init
+git status
+git add .\
+git commit -m "mensagem aqui"
+git push origin main
