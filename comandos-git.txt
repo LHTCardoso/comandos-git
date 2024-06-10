@@ -18,6 +18,7 @@ git log - log/historico dos comandos
 
 git pull - ao fazer uma mudança no github e der git pull no terminal, a mudança aparece também no seu repositório local
 
+git fetch e depois git diff - vai fazer a mudança também, porém, voce pode visualizar o que vai ser alterado antes de "efetivar". Ao utilizar o git diff voce ve o que esta diferente entre o repositorio web e o local.
 ---
 
 Para upar arquivos para o github
