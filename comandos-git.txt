@@ -1,5 +1,17 @@
 comands git
 
+Para saber o seu nome de usuário do Git - git config --global user.name. 
+ 
+Para ver todas as configurações do Git - git config --list. 
+ 
+Para saber se o Git está instalado, pode abrir um terminal e digitar git --version. 
+ 
+Para configurar o nome de usuário do Git para todos os repositórios do computador, pode:
+Abrir o Terminal
+Definir o nome de usuário do Git: git config --global user.name "Mona Lisa"
+Confirmar a configuração: $ git config --global user.name > Mona Lisa 
+ 
+
 Git Init - no terminal da ide, após colocar esse comand line, ira gera uma pasta .git no caminho da pasta aberta.
 
 Git status - trara o status do seu arquivo de acordo com a sua branch.
